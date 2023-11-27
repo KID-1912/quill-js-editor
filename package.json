@@ -1,6 +1,6 @@
 {
   "name": "quill-js-editor",
-  "version": "1.0.1-beta.0",
+  "version": "1.0.0-beta.0",
   "description": "Custom JavaScript editor built on quill",
   "main": "main.js",
   "scripts": {
